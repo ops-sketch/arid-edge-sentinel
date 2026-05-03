@@ -167,7 +167,7 @@ See `SUBMISSION_CHECKLIST.md` for the step-by-step submission flow.
 
 ## 9. License
 
-MIT — see `LICENSE`.
+GNU Affero General Public License v3.0 (AGPL-3.0) — see `LICENSE`. Modifications and network/SaaS deployments must release their full source under the same terms.
 
 ## 10. Contact
 
