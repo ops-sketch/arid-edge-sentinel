@@ -171,4 +171,4 @@ MIT — see `LICENSE`.
 
 ## 10. Contact
 
-LaunchDetect.com — `ops@launchdetect.com`
+LaunchDetect.com — `Justin.Kellum@launchdetect.com`
