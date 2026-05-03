@@ -1,0 +1,9 @@
+# Minimal demo requirements -- guaranteed to install on Windows.
+# These are everything the Streamlit app needs to run with the
+# synthetic-data fallback (which is what the pitch video uses).
+streamlit>=1.32
+plotly>=5.20
+python-dotenv>=1.0
+numpy>=1.26
+pandas>=2.1
+Pillow>=10

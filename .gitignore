@@ -1,0 +1,31 @@
+# Secrets
+.env
+.netrc
+*.token
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env.*
+!.env.example
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data caches
+data/
+cache/
+*.h5
+*.hdf
+*.tif
+*.tiff
+*.nc
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

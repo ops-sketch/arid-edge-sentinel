@@ -1,0 +1,16 @@
+# Optional: live NASA Earthdata API support.
+# Adds real CMR search + HDF5/COG streaming. These wheels can fail
+# to build on Windows without the C++ Build Tools / GDAL — install
+# them only if you want the "API live" mode in the demo.
+#
+#   .venv\Scripts\python.exe -m pip install -r requirements-live.txt
+#
+earthaccess>=0.10
+xarray>=2024.1
+rioxarray>=0.15
+rasterio>=1.3
+fsspec>=2024.2
+h5py>=3.10
+h5netcdf>=1.3
+netCDF4>=1.6
+requests>=2.31
